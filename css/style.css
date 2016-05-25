@@ -20,6 +20,10 @@ h6 {
   font-family: fantasy;
   color: green;
 }
+
+.best a:visited {
+  color: green;
+}
 .img {
   border: grey solid 2px;
   display: inline-block;
